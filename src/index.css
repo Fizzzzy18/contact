@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color: #323334;
+}
+/* styles.module.css */
+
+.text-orange {
+    color: orange;
+  }
+  .bg-orange {
+   background-color: orange;
+  }

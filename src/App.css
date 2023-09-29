@@ -1,0 +1,4 @@
+/* Global media query for screens wider than 768px */
+@media (min-width: 768px) {
+    /* Add styles here for larger screens */
+  }
